@@ -5,8 +5,7 @@
 An open source UI for metal 🤠
 
 The UI is deployed on IPFS and accessible at
-[metal.exchange](https://metal.exchange/#/) or
-[metalfinance.eth.link](https://metalfinance.eth.link/#/).
+[metal.exchange](https://app.metalswap.finance/)
 
 ## Installation
 
