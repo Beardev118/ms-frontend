@@ -71,7 +71,7 @@
     "cypress": "^7.6.0",
     "cypress-react-selector": "^2.3.6",
     "eslint": "^7.11.0",
-    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jest": "^25.3.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.28.0",
